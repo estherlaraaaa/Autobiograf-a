@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Mi Autobiografía </title>
+</head>
+
+<body>
+
+<h1>Esther Lara</h1>
+
+<h2>Introducción</h2>
+
+    <p>
+        Mi nombre es <strong> Esther Lara </strong>. Nací en San Salvador, El Salvador
+        el 28 de Julio de 1998. Mis padres son Guillermo y Ana María. Tengo dos
+        hermanas Lourdes y Gaby. 
+    </p>
+    <p>
+        Soy una persona alegre, risueña, muy decidida de lo que se propone y sobre todo 
+        muy perseverante. Genero confianza en las demas personas, me gusta escuchar a 
+        mis amigos y poder darles un consejo. 
+        Me gusta salir y divertirme. Aprecio la confianza de los demas, me gusta la 
+        honestidad, odio darme cuenta de las cosas por terceras personas. 
+        Me gusta salir con mi familia y sacar a pasear a mis perritos al parque.
+        Aunque no parezca soy super tímida, y brindar mi confianza es una de las cosas
+        que mas me cuesta hacer, sin embargo cuando la doy es porque me lo han demostrado.
+        Odio la hipocresia, especialmente en mis <strong>amistades</strong>. 
+    </p>
+
+<h2>Familia y amigos</h2>
+
+<ul>
+    <li>
+       Mi familia es especial para mi ya que son las personas que siempre han estado para 
+       mi a pesar de todas las cosas. Muchas personas dicen que me parezco a mi papá, 
+       y otras que a mi mamá; pero tengo rasgos físicos de ambos y el carácter de mi papá. 
+    </li>
+    <li>
+        Me gustan mucho los perritos y tengo tres: Scott, Lucas y Sultan. A Scott lo tengo 
+        desde el 2009, el era un cachorrito es por eso que de los tres es con el que mas me 
+        llevo y el que ha estado conmigo en cada momento de mi vida, no se que haría sin el.
+    </li>
+    <li>
+        Mis abuelos de parte de papá viven en La Paz, voy a visitarlos todos los domingos, a 
+        menos que tenga parciales o demasiados trabajos de la U. Mis abuelos de parte de mamá 
+        viven súper cerca de mi casa y voy a visitarlos casi todos los días en la noche. 
+    </li>
+    <li>
+        Mi mejor amiga se llama Karla, somos bf desde que estamos en septimo grado, es decir 
+        desde el 2012. Es mi mejor amiga porque es una persona que siempre ha estado para mi
+        y me ha apoyado en todo, pensamos muy similar aunque ella es más tranquila que yo y 
+        creo que fue por eso que nos terminamos llevando super bien. 
+        Por otro lado estan mis mejores amigos que son cinco cheros increíbles: Jona, Erik,
+         Patrick, Edu y Rodrigo; los cuales dan todo por mi y siempre estan ahí aconsejandome... 
+    </li>
+</ul>
+
+<h2>Recuerdos</h2>
+
+<ul>
+    <li>
+        El primer recuerdo que se me viene a la mente es cuando compramos a Scott, fue un día 
+        muy importante para mí, puesto que siempre había querido un perrito y desde que lo tengo
+        siempre he visto por el y lo amo mucho. La verdad es que no me imagino una vida sin el! 
+    </li>
+    <li>
+        Un evento memorable fue cuando me gradue del colegio, ha sido uno de los días más felices
+        de toda mi vida, poder culminar esta etapa de mi vida y sobre todo poder enorgullecer a mis 
+        padres por ese triunfo que con tanto sacrificio lo logramos.
+    </li>
+</ul>
+
+<h2>Deportes o hobbies</h2>
+
+<ul>
+    <li>
+        Desde pequeña me han gustado todos los deportes, los practicaba todos, sin embargo
+        los que mas me gustaron fueron el basketball y el voleyball.
+    </li>
+    <li>
+        <strong>Basketball</strong> lo practique 3 años, fui a muchos amistosos y competencias
+        importantes con varios colegios.
+    </li>
+    <li>
+        <strong>Voleyball</strong> lo practique 2 años, y al igual que en basketball participe
+        en varios encuentros deportivos. 
+    </li>
+</ul>
+
+<P>Y eso fue un poco sobre Esther Lara</P>
+
+<p> Tarea 1</p>
+
+
+
+</body>
+ 
+</html>
